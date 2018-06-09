@@ -22,3 +22,5 @@ python train_rfcn.py
 
 参考论文 Wang, Linzhao, et al. "Saliency detection with recurrent fully convolutional networks." European Conference on Computer Vision. Springer International Publishing, 2016.
 # recentlywork-rfcn
+# recentlywork-rfcn
+# recentlywork-rfcn
