@@ -12,7 +12,8 @@ tensorboardX
 3.原图
 其中真值图和原图一般数据集中都有，先验图需要自己准备
 4. 改代码里的数据集路径。ptag改成先验图文件夹名字。（需要修改的有train里面的和dataset里面的
-
+5.本文中使用的数据集 ： https://pan.baidu.com/s/12QAA5J987g6_dmhMp07puw
+6
 
 #需要tensorboard
 tensorboard --logdir runs
